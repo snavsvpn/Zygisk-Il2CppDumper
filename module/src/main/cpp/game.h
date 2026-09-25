@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "fr.moblo"
+#define GamePackageName "f.moblo"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
